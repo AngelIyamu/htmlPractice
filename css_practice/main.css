@@ -3,3 +3,11 @@ p{
     font-size: 18px;
     color: blue;
 }
+
+a{
+    text-decoration: underline;
+    color:blueviolet;
+}
+h1{
+    color:beige;
+}
