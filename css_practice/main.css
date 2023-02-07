@@ -27,3 +27,11 @@ li{
 id == 100points
 class == 10points
 element == 1 point */
+
+/*override any other change*/
+p{
+    color: blue !important;/*the next change wont override this*/
+}
+p{
+    color:blueviolet;
+}
