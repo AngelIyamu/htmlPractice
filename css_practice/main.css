@@ -23,3 +23,7 @@ li{
 .classed{
     color:bisque;
 }
+/*specific rules override general rules:
+id == 100points
+class == 10points
+element == 1 point */
