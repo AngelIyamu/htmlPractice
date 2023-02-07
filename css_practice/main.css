@@ -11,3 +11,15 @@ a{
 h1{
     color:beige;
 }
+/* to format an id initialize with # symbol*/
+#nav-header{
+    color:brown;
+    font-size: 28px;
+}
+li{
+    color:cadetblue;
+}
+/*To format a class initialize with . symbol*/
+.classed{
+    color:bisque;
+}
