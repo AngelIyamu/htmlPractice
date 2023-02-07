@@ -39,6 +39,10 @@ li[class]{
     color:red;
 }
 
+/*dynamic pseudo classes are action reaction styles*/
+a:hover{
+    color: red;
+}
 
 
 
