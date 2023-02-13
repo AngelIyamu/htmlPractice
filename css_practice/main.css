@@ -33,12 +33,14 @@ p{
     color: blue !important;/*the next change wont override this*/
 }
 p{
-    color:blueviolet;
+    text-decoration: underline;
 }
 li[class]{
     color:red;
 }
-
+a{ color:blueviolet
+    
+}
 /*dynamic pseudo classes are action reaction styles*/
 a:hover{
     color: red;
